@@ -1,5 +1,5 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adrian%20Principio&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20AI%20Engineer&descAlignY=55&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adrian%20Principio&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20and%20AI%20Engineer&descAlignY=55&fontColor=ffffff" />
 
 <!-- Greeting -->
 <h1 align="center">Hey there! I'm Adrian 👋🇵🇭</h1>
