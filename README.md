@@ -46,10 +46,10 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-4B4B77?style=for-the-badge&logo=hex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-4B4B77?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Volatility-5C2D91?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E20A0A?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E20A0A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
@@ -85,13 +85,13 @@
 ### 🤖 AI / ML
 <p>
   <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP_Servers-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logoColor=white" />
 </p>
 
 ### ☁️ Cloud / DevOps
@@ -118,9 +118,14 @@
 
 ## 🚀 Featured Projects
 
-### 🦈 [AIShark](https://github.com/adrianprincipio/AIShark) — AI-Powered PCAP & Network Forensics Analyzer
+> 🔒 Source repositories are private. Click the **Live Demo** links below to explore working deployments.
+
+### 🦈 [AIShark](https://ai-shark.vercel.app) — AI-Powered PCAP & Network Forensics Analyzer
 > Browser-based PCAP/PCAPNG analyzer replacing desktop Wireshark — AI anomaly detection, TCP packet loss tracking, semantic search, and 13 AI analysis routes. 128 unit + 13 E2E tests.
 
+<p>
+  <a href="https://ai-shark.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-ai--shark.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -131,48 +136,74 @@
 
 ---
 
-### 💀 [BSSOD](https://github.com/adrianprincipio/bssod) — Windows BSOD & Memory Dump Diagnostics
+### 💀 [BSSOD](https://bssod.vercel.app) — Windows BSOD & Memory Dump Diagnostics
 > Privacy-first Windows crash analyzer — local `.exe` parser extracts minidump metadata without cloud upload, then Claude AI delivers severity-rated diagnoses with prioritized remediation steps.
 
+<p>
+  <a href="https://bssod.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-bssod.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-4B4B4B?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🎫 [IntelliTicket](https://github.com/adrianprincipio/intelliticket) — SOC AI Case Analysis Platform
+### 💰 [EvenUp](https://evenup.space) — Cross-Platform Expense Splitter
+> Flutter-based expense-splitting app with settlement optimization algorithm, 4 split types, 10 currencies, offline-first architecture, and real-time friends/groups system via Firebase.
+
+<p>
+  <a href="https://evenup.space"><img src="https://img.shields.io/badge/🔗_Live_Demo-evenup.space-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+### 🎫 IntelliTicket — SOC AI Case Analysis Platform
 > AI-powered SOC platform with RAG knowledge base, 7 specialized log analyzers (Deep Security, AMSP, AV conflict), ML anomaly scoring, and admin dashboard. Reduced team ticket volume by 75%.
 
 <p>
+  <img src="https://img.shields.io/badge/🔒_Private_Repo-Enterprise-red?style=for-the-badge&logo=trendmicro&logoColor=white" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ---
 
-### 🦠 [ProcBench](https://github.com/adrianprincipio/procbench) — Process Monitor Malware Forensics Engine
+### 🦠 ProcBench — Process Monitor Malware Forensics Engine
 > Upload ProcMon PML/CSV/XML files → AI maps behaviors to 30+ MITRE ATT&CK techniques across 12 tactics, detects LOLBAS abuse, reconstructs execution chains, and generates PDF threat reports. 140 tests, 92% detection accuracy.
 
+<p>
+  <img src="https://img.shields.io/badge/🔒_Private_Repo-Security_Research-red?style=for-the-badge&logoColor=white" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E20A0A?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E20A0A?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 [SOC Bots Suite](https://github.com/adrianprincipio/socbots) — 22-Bot SOC Automation Toolkit
+### 🤖 SOC Bots Suite — 22-Bot SOC Automation Toolkit
 > Production-grade 22-bot SOC automation suite (10 Intel · 4 DevOps · 8 Cybersecurity) with a React/FastAPI dashboard. 97 P0 critical bugs fixed, 193+ input validation checks, 70% faster threat investigation.
 
+<p>
+  <img src="https://img.shields.io/badge/🔒_Private_Repo-Security_Research-red?style=for-the-badge&logoColor=white" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -183,15 +214,10 @@
 
 ---
 
-### 📧 [Eman](https://github.com/adrianprincipio/eman) — Enterprise Email Security Analyzer
-> Real DNS SPF/DKIM/DMARC validation (not pattern matching), 0–100 security scoring, batch analysis of 100 emails, Redis DNS caching (60–600x speedup), JWT auth, and full Docker deployment. 62+ tests, 80%+ coverage.
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<p align="center">
+  <a href="https://a-prince-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_See_Full_Portfolio-a--prince--portfolio.vercel.app-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -201,10 +227,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adrianprincipio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adrian's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=APrinceGPT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adrian's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprincipio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APrinceGPT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
